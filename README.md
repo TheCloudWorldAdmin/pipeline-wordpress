@@ -1,2 +1,2 @@
-# pipeline-wordpress
-pipeline-wordpress
+# pipeline-wordpress-update
+pipeline
